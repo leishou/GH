@@ -1,0 +1,11 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--&lt;!&ndash; @author: 实验室&ndash;&gt;-->
+<!--&lt;!&ndash; @Date: 2021-1-15 11:33:26&ndash;&gt;-->
+<!--&lt;!&ndash; @Description：&ndash;&gt;-->
+<!--<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">-->
+
+<!--<mapper namespace="com.cs.ghdemo.mapper.BaggageMapper">-->
+<!--    <select id="Login" CommonResultType="com.cs.ghdemo.entity.Baggage">-->
+<!--        select * from `name-password` where username = #{username} and password = #{password}-->
+<!--    </select>-->
+<!--</mapper>-->

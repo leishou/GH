@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "element-ui": "^2.15.9",
+    "uview-ui": "^2.0.31",
+    "vue-router": "^3.4.9",
+    "vuex": "^3.6.0"
+  },
+  "devDependencies": {
+    "ava": "^4.3.3",
+    "sass": "^1.54.8"
+  },
+  "scripts": {
+    "test": "ava"
+  }
+}
